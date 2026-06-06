@@ -45,6 +45,5 @@ Shortened URLs are stored in MongoDB and redirected to their original destinatio
 ---
 
 ## Author
-Kumkum Kamthan
 
 Kumkum Kamthan
